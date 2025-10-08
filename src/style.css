@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+:root {
+  --color-primary: #ecf2fe;
+  --color-secondary: #d8e6fe;
+  --color-accent: #f5a623;
+  --color-background: #ffffff;
+  --color-linkbtn: #3e80f9;
+  --color-text: #333333;
+  --color-bgfacebok: #e1e7f3;
+  --color-colorfacebok: #4267b2;
+  --color-bgtwitter: #dbf0fd;
+  --color-colortwitter: #1da1f2;
+  --color-bggeogle: #f9e1df;
+  --color-colorgeogle: #db4441;
+  --color-linkna: rgb(152, 147, 156);
+}
+
+body {
+  background-color: var(--color-primary);
+}
